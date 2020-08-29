@@ -106,7 +106,7 @@ h1.name {
 }
 
 .job-title {
-	vertical-align: middle;
+	vertical-align: top;
 	background-color: #e94560;
 	color: #1a1a2e;
 	font-weight: 600;

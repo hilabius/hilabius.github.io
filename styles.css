@@ -50,8 +50,8 @@ body {
 	text-rendering : optimizeLegibility;
 	-webkit-font-smoothing : antialiased;
 	font-size: 19px;
-	background-color: #FEFEFE;
-	color: #04143A;
+	background-color: #1a1a2e;
+	color: #fefefe;
 }
 ol, ul {
 	list-style: none;

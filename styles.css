@@ -121,7 +121,7 @@ h1.name {
 	display: block;
 	font-size: 24px;
 	font-weight: 300;
-	color: #0f3460;
+	color: #7AC7BF;
 	margin-top: 10px;
 }
 
@@ -160,7 +160,7 @@ h1.name {
 
 .list-card .exp {
 	margin-right: 15px;
-	color: #0f3460;
+	color: #7AC7BF;
 	font-weight: 600;
 	width: 100px;
 }
@@ -179,7 +179,7 @@ h1.name {
 
 .list-card div span {
 	font-size: 16px;
-	color: #0f3460;
+	color: #7AC7BF;
 	line-height: 22px;
 }
 
@@ -334,7 +334,7 @@ li .description {
   font-size: 18px;
   font-weight: 600;
   line-height: 25px;
-  color: #0f3460;
+  color: #7AC7BF;
 }
 .description::before {
   content: '';

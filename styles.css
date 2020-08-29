@@ -160,7 +160,7 @@ h1.name {
 
 .list-card .exp {
 	margin-right: 15px;
-	color: #e94560;
+	color: #0f3460;
 	font-weight: 600;
 	width: 100px;
 }
@@ -172,14 +172,14 @@ h1.name {
 .list-card h3 {
 	font-size: 20px;
 	font-weight: 600;
-	color: #0f3460;
+	color: #e94560;
 	line-height: 26px;
 	margin-bottom: 8px;
 }
 
 .list-card div span {
 	font-size: 16px;
-	color: #16213e;
+	color: #0f3460;
 	line-height: 22px;
 }
 

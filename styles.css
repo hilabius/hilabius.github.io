@@ -107,8 +107,8 @@ h1.name {
 
 .job-title {
 	vertical-align: middle;
-	background-color: #D9E7F8;
-	color: #4A90E2;
+	background-color: #e94560;
+	color: #1a1a2e;
 	font-weight: 600;
 	margin-top: 5px;
 	margin-left: 20px;
@@ -121,7 +121,7 @@ h1.name {
 	display: block;
 	font-size: 24px;
 	font-weight: 300;
-	color: #81899C;
+	color: #16213e;
 	margin-top: 10px;
 }
 
@@ -160,7 +160,7 @@ h1.name {
 
 .list-card .exp {
 	margin-right: 15px;
-	color: #4A90E2;
+	color: #e94560;
 	font-weight: 600;
 	width: 100px;
 }
@@ -172,14 +172,14 @@ h1.name {
 .list-card h3 {
 	font-size: 20px;
 	font-weight: 600;
-	color: #5B6A9A;
+	color: #0f3460;
 	line-height: 26px;
 	margin-bottom: 8px;
 }
 
 .list-card div span {
 	font-size: 16px;
-	color: #81899C;
+	color: #16213e;
 	line-height: 22px;
 }
 
@@ -197,7 +197,7 @@ h1.name {
 .card {
 	width: 47.9%;
 	height: 200px;
-	background-color: #EEF0F7;
+	background-color: #0f3460;
 	display: inline-block;
 	margin: 7px 5px;
 	vertical-align: top;
@@ -334,7 +334,7 @@ li .description {
   font-size: 18px;
   font-weight: 600;
   line-height: 25px;
-  color: #5B6A9A;
+  color: #0f3460;
 }
 .description::before {
   content: '';
@@ -351,7 +351,7 @@ li .description {
 
 .timeline .date{
 	font-size: 14px;
-	color: #81899C;
+	color: #16213e;
 	font-weight: 300;
 }
 

@@ -95,7 +95,7 @@ div , footer {
 }
 
 .hero {
-	margin: 500px auto; 
+	margin: 50px auto; 
 	position: relative;
 }
 
@@ -106,7 +106,7 @@ h1.name {
 }
 
 .job-title {
-	vertical-align: top;
+	vertical-align: middle;
 	background-color: #D9E7F8;
 	color: #4A90E2;
 	font-weight: 600;
